@@ -1,16 +1,12 @@
 Simple Arithmetic Calculator
-A basic arithmetic calculator that performs fundamental operations including addition, subtraction, multiplication, and division. This project is designed to demonstrate the use of HTML, CSS, and JavaScript to create a functional web-based application.
+This is a basic arithmetic calculator built using HTML, CSS, and JavaScript. It performs fundamental operations including addition, subtraction, multiplication, and division. The project demonstrates the application of essential web technologies and basic JavaScript functions for user interaction.
 
 Features:-
-->Addition: Calculates the sum of two numbers.
-->Subtraction: Computes the difference between two numbers.
-->Multiplication: Multiplies two numbers.
-->Division: Divides one number by another.
+->Basic Operations: Supports addition, subtraction, multiplication, and division.
 ->AC (All Clear): Resets all input fields and clears the current operation.
-->Responsive Design: Adapts to various screen sizes and devices.
-->User-Friendly Interface: Clean and intuitive layout for easy use.
-
+->User Interface: A clean and straightforward interface created with HTML and styled using CSS.
+->Responsiveness: The calculator adapts to different screen sizes using responsive design techniques.
 Technologies Used:-
-->HTML: Structure of the calculator.
-->CSS: Styling and layout for an appealing design.
-->JavaScript: Logic and functionality for arithmetic operations.
+->HTML: Provides the structure of the calculator.
+->CSS: Styles the calculator to ensure a visually appealing design.
+->JavaScript: Implements the functionality and arithmetic operations of the calculator.
